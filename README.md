@@ -13,10 +13,30 @@
 
 Hussle became known for his numerous mixtapes, including his Bullets Ain't Got No Name series, The Marathon, The Marathon Continues, and Crenshaw, the last of which rapper Jay-Z bought 100 copies for $100 each. After much delay, his debut studio album Victory Lap was released in 2018 to critical acclaim and commercial success,and was nominated for the Best Rap Album at the 61st Grammy Awards in 2019. Two posthumous Grammy Awards for the songs "Racks in the Middle" and "Higher" was awarded to Hussle in the Best Rap Performance and Best Rap/Sung Performance categories, respectively, the next year at the 62nd Grammy Awards.<br><br>
 
-Also known for his entrepreneurship, Hussle inaugurated the Marathon Clothing store, which he founded along with partners Carless, the head of the agency, Karen Civil and his brother Samiel Asghedom in 2017, and started a co-working environment which he named "Vector 90". On March 31, 2019, Hussle was fatally shot outside his store Marathon Clothing in South Los Angeles.[14] Eric Holder, a 29-year-old man who had confronted Hussle earlier in the day, was arrested and charged with murder on April 2, 2019.</p>
+Also known for his entrepreneurship, Hussle inaugurated the Marathon Clothing store, which he founded along with partners Carless, the head of the agency, Karen Civil and his brother Samiel Asghedom in 2017, and started a co-working environment which he named "Vector 90". On March 31, 2019, Hussle was fatally shot outside his store Marathon Clothing in South Los Angeles. Eric Holder, a 29-year-old man who had confronted Hussle earlier in the day, was arrested and charged with murder on April 2, 2019.</p>
   <a href="https://en.wikipedia.org/wiki/Nipsey_Hussle"target="_blank" id="tribute-link">Click here for more information on Nipsey Hussle</a>
-   
-      
-  
-
-</div>
+   </div>
+body{
+  text-align: center;
+  background-color:black;
+  color:white;
+}
+h1{
+  font-family:Times, Times New;
+  font-size:50px;
+}
+h2{
+  color:#00BFFF;
+  font-size: 20px
+}
+#image{
+  height: 320px;
+  max-width:100%;
+}
+#id{
+  font-family:Times, Times New;
+  color:#00BFFF;
+}
+p{
+  font-family:sans-serif;
+}
